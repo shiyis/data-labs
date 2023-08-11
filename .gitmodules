@@ -1,8 +1,3 @@
-[submodule "aws-data-pipeline-lambda-cd"]
-    active = true
-    path = aws-data-pipeline-lambda-cd
-    url = "https://github.com/shiyis/aws-data-pipline-lambda-cd.git"
-
 [submodule "terraform-labs"]
     active = true
 	path = terraform-labs
