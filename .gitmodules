@@ -2,12 +2,12 @@
     active = true
 	path = terraform-labs
 	url = https://github.com/shiyis/terraform-labs.git
-[submodule "pa-cands-git-scraping"]
-	path = pa-cands-git-scraping
+[submodule "pac-cands-git-scraping"]
+	path = pac-cands-git-scraping
 	url = https://github.com/shiyis/pa-cands-git-scraping.git
 [submodule "aws-data-pipline-lambda-cd"]
 	path = aws-data-pipline-lambda-cd
 	url = https://github.com/shiyis/aws-data-pipline-lambda-cd.git
-[submodule "dra_data"]
+[submodule "dra-data"]
 	path = dra_data
 	url = https://github.com/shiyis/dra_data.git
