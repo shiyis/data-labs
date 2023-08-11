@@ -11,3 +11,6 @@
 [submodule "dra-data"]
 	path = dra-data
 	url = https://github.com/shiyis/dra-data
+[submodule "dra_data"]
+	path = dra_data
+	url = https://github.com/shiyis/dra_data
