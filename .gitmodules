@@ -4,7 +4,7 @@
 	url = https://github.com/shiyis/terraform-labs.git
 [submodule "pac-cands-git-scraping"]
 	path = pac-cands-git-scraping
-	url = https://github.com/shiyis/pa-cands-git-scraping.git
+	url = https://github.com/shiyis/pac-cands-git-scraping
 [submodule "aws-data-pipline-lambda-cd"]
 	path = aws-data-pipline-lambda-cd
 	url = https://github.com/shiyis/aws-data-pipline-lambda-cd.git
