@@ -9,5 +9,5 @@
 	path = aws-data-pipline-lambda-cd
 	url = https://github.com/shiyis/aws-data-pipline-lambda-cd.git
 [submodule "dra-data"]
-	path = dra_data
-	url = https://github.com/shiyis/dra_data.git
+	path = dra-data
+	url = https://github.com/shiyis/dra-data
