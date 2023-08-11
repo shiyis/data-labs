@@ -10,3 +10,6 @@
 [submodule "pa-cands-git-scraping"]
 	path = pa-cands-git-scraping
 	url = https://github.com/shiyis/pa-cands-git-scraping.git
+[submodule "aws-data-pipline-lambda-cd"]
+	path = aws-data-pipline-lambda-cd
+	url = https://github.com/shiyis/aws-data-pipline-lambda-cd.git
