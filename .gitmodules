@@ -1,14 +1,17 @@
 [submodule "terraform-labs"]
-    active = true
+    	active = true
 	path = terraform-labs
 	url = https://github.com/shiyis/terraform-labs.git
 [submodule "c4pe2021-git-scraping"]
+    	active = true
 	path = c4pe2021-git-scraping
 	url = https://github.com/shiyis/c4pe2021-git-scraping
 [submodule "aws-lambda-etl-cd"]
+	active = true
 	path = aws-lambda-etl-cd
 	url = https://github.com/shiyis/aws-lambda-etl-cd.git
 [submodule "dra-data"]
+        active = true
 	path = dra-data
 	url = https://github.com/shiyis/dra-data
 
