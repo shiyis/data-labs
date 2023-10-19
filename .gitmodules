@@ -5,12 +5,10 @@
 [submodule "c4pe2021-git-scraping"]
 	path = c4pe2021-git-scraping
 	url = https://github.com/shiyis/c4pe2021-git-scraping
-[submodule "aws-data-pipline-lambda-cd"]
-	path = aws-data-pipline-lambda-cd
-	url = https://github.com/shiyis/aws-data-pipline-lambda-cd.git
+[submodule "aws-lambda-etl-cd"]
+	path = aws-lambda-etl-cd
+	url = https://github.com/shiyis/aws-lambda-etl-cd.git
 [submodule "dra-data"]
 	path = dra-data
 	url = https://github.com/shiyis/dra-data
-[submodule "aws-data-pipline-demo"]
-	path = aws-data-pipline-demo
-	url = https://github.com/shiyis/aws-data-pipeline-demo
+
