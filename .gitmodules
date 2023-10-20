@@ -1,9 +1,9 @@
 [submodule "terraform-labs"]
-s	path = terraform-labs
+	path = terraform-labs
 	url = https://github.com/shiyis/terraform-labs.git
 
 [submodule "c4pe2022-tweets"]
-	path = c4pe-tweet-data
+	path = c4pe2022-tweets
 	url = https://github.com/shiyis/c4pe2022-tweets
 
 	
