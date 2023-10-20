@@ -1,5 +1,17 @@
 [submodule "terraform-labs"]
-    	active = true
-	path = terraform-labs
+s	path = terraform-labs
 	url = https://github.com/shiyis/terraform-labs.git
 
+[submodule "c4pe2022-tweets"]
+	path = c4pe-tweet-data
+	url = https://github.com/shiyis/c4pe2022-tweets
+
+	
+[submodule "dra-data"]
+	path = dra-data
+	url = https://github.com/shiyis/dra-data
+
+
+[submodule "aws-serverless-etl-cicd"]
+	path = aws-serverless-etl-cicd
+	url = https://github.com/shiyis/aws-serverless-etl-cicd
