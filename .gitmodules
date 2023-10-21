@@ -15,3 +15,10 @@
 [submodule "aws-serverless-etl-cicd"]
 	path = aws-serverless-etl-cicd
 	url = https://github.com/shiyis/aws-serverless-etl-cicd
+[submodule "aws-serverless-etl"]
+	path = aws-serverless-etl
+	url = https://github.com/shiyis/aws-serverless-etl
+	branch = master
+[submodule "twitter-archive"]
+	path = twitter-archive
+	url = https://github.com/shiyis/c4pe2022-tweets/
