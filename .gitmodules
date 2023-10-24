@@ -22,3 +22,5 @@
 [submodule "twitter-archive"]
 	path = twitter-archive
 	url = https://github.com/shiyis/c4pe2022-tweets/
+[submodule "https://github.com/shiyis/aws-serverless-etl/"]
+	url = aws-serverless-etl
