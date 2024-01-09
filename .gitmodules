@@ -27,3 +27,6 @@
 [submodule "aws-sam-cicd"]
 	path = aws-sam-cicd
 	url = https://github.com/shiyis/aws-serverless-etl/
+[submodule "pyspark-etl-example"]
+	path = pyspark-etl-example
+	url = https://github.com/AlexIoannides/pyspark-example-project.git
