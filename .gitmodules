@@ -33,3 +33,6 @@
 [submodule "data-structures"]
 	path = data-structures
 	url = https://github.com/shiyis/data-structures.git
+[submodule "sklearn_tutorial"]
+	path = sklearn_tutorial
+	url = https://github.com/jakevdp/sklearn_tutorial.git
