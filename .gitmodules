@@ -30,3 +30,6 @@
 [submodule "pyspark-etl-example"]
 	path = pyspark-etl-example
 	url = https://github.com/AlexIoannides/pyspark-example-project.git
+[submodule "data-structures"]
+	path = data-structures
+	url = https://github.com/shiyis/data-structures.git
